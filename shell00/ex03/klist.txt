@@ -1,0 +1,5 @@
+Credentials cache: API:8A11136F-2753-4135-840D-581C70D0603F
+        Principal: anavdaly@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Feb 15 19:35:57 2022  Feb 16 05:35:57 2022  krbtgt/42YEREVAN.AM@42YEREVAN.AM
